@@ -1,4 +1,4 @@
--👋 Hi, I’m @Ashish-1020
+- 👋 Hi, I’m @Ashish-1020
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me ashishvid@gmail.com
