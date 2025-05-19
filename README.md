@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Yadav
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Spring boot
 - 📫 How to reach me ashishvid164@gmail.com
 
 
