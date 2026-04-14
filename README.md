@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ashish Yadav
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Spring boot
-- 📫 How to reach me ashishvid164@gmail.com
+- 👋 Hi, I’m Ashish Yadav, an Android and Backend Developer
+- I love create Android apps in flutter, Kotlin and Java
+  
 
 
 <!---
