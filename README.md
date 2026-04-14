@@ -3,6 +3,7 @@
 🚀 Passionate Android Developer | Backend Enthusiast | AI Explorer
 
 🎓 CSE @ Rajiv Gandhi Institute of Petroleum Technology
+
 💡 Building real-world scalable apps with modern tech
   
 
