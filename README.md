@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Ashish Yadav, an Android and Backend Developer
-- I love create Android apps in flutter, Kotlin and Java
+👋 Hi, I'm Ashish Yadav
+🚀 Passionate Android Developer | Backend Enthusiast | AI Explorer
+
+🎓 CSE @ Rajiv Gandhi Institute of Petroleum Technology
+💡 Building real-world scalable apps with modern tech
   
 
 
